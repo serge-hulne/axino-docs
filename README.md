@@ -1,2 +1,1 @@
-# axino-docs
-Documentation for the Axino library
+# Axino library documentation
